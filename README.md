@@ -1,2 +1,0 @@
-# SwapSDK
-csgo sdk
