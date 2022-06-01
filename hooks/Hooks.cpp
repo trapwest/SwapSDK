@@ -1,5 +1,1 @@
-nothing
-fart
-please
-stop
-nigga
+{ "nothing", "fart", "123" }
